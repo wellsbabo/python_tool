@@ -19,11 +19,7 @@
 
 2. **프로그램 실행**:
    - 이 프로그램은 Python 3.x에서 실행됩니다.
-   - `AES128 Encryption/Decryption`라는 이름의 GUI 창이 실행됩니다.
-
-   ```bash
-   python main.py
-   ```
+   - 파이썬 설치 후 다운 받은 파이썬 파일을 클릭하면 GUI 형태로 실행됩니다.
 
 ## 사용 방법
 
